@@ -5,20 +5,20 @@
 
 # How to Play
 
-Computer's Turn: The computer randomly selects "Rock", "Paper", or "Scissors".
+# Computer's Turn: The computer randomly selects "Rock", "Paper", or "Scissors".
 
-Player's Turn: The player is prompted to input their choice:
+# Player's Turn: The player is prompted to input their choice:
 
 Type r for Rock
 Type p for Paper
 Type s for Scissors
 Type q to Quit the game
 
-Game Logic: The program determines the winner based on the standard rules of Rock-Paper-Scissors:
+# Game Logic: The program determines the winner based on the standard rules of Rock-Paper-Scissors:
 
 Rock beats Scissors
 Scissors beats Paper
 Paper beats Rock
 Identical choices result in a tie
 
-Result: After each round, the game announces the result (win, lose, or tie) and displays both the player's and the computer's choices.
+# Result: After each round, the game announces the result (win, lose, or tie) and displays both the player's and the computer's choices.
